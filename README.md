@@ -8,6 +8,8 @@ Concept used
 - Transfer learning (feature extraction)
 - Use MLP which take input of image feature and text feature and output next text
 
+## VGG-16 Model
+![alt Bike](https://github.com/modinitin13/Image-caption-generator/blob/master/VGG-16%20Model.png)
 ## Example
 ![alt Bike](https://github.com/modinitin13/Image-caption-generator/blob/master/Bike.png)
 ![alt Football](https://github.com/modinitin13/Image-caption-generator/blob/master/Football.png)
